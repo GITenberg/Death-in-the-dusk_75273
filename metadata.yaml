@@ -1,0 +1,26 @@
+_repo: Death-in-the-dusk_75273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Markham, Virgil
+    gutenberg_agent_id: '57915'
+    url: http://www.gutenberg.org/2009/agents/57915
+description: ''
+gutenberg_issued: '2025-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75273'
+language: en
+pgterms:marc904: https://archive.org/details/deathindusk00mark
+pgterms:marc905: 20240604161647markham
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bJacobsen Publishing Company, Inc., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Death in the dusk
+url: http://www.gutenberg.org/ebooks/75273
